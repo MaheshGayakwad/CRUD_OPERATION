@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+body{
+	
+	background-image: radial-gradient(circle, #f5ff17, #edf712, #e4ee0c, #dce606, #d4de00);
+	
+}
+
+table {
+	border-collapse: collapse;
+}
+
+.one{
+	
+	background-color: red;
+
+	
+}
